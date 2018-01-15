@@ -1,0 +1,67 @@
+//*[@id="js_5e"]/form/button/i
+
+
+//*[@id="js_2b"]
+
+//*[@id="js_2j1"]
+class := _2xjf
+id:=js_h3
+
+class :=_2yet
+
+a id="js_np" class="_2yez"
+
+<a class="_2yez" data-hovercard="/ajax/hovercard/hovercard.php?id=100005323273152&amp;extragetparams=%7B%7D" href="https://www.facebook.com/mokter.hossain.18847" aria-controls="js_9w" aria-haspopup="true" role="null" aria-describedby="js_9x" id="js_9y"><!-- react-text: 18 -->Mokter Hossain<!-- /react-text --></a>
+<a class="_2yez" data-hovercard="/ajax/hovercard/hovercard.php?id=731579370&amp;extragetparams=%7B%7D" href="https://www.facebook.com/drmokterh" aria-controls="js_1bk" aria-haspopup="true" role="null" id="js_1b7" aria-describedby="js_1bl"><!-- react-text: 18 -->DrMokter Hossain<!-- /react-text --></a>
+
+
+<a id="js_1vd" class="_2yez" data-hovercard="/ajax/hovercard/hovercard.php?id=1796598613&extragetparams=%7B%7D"     href="/profile.php?id=1796598613"                          aria-controls="js_1vb" aria-haspopup="true" role="null" aria-describedby="js_1vc"
+<a id="js_8v" class="_2yez" data-hovercard="/ajax/hovercard/hovercard.php?id=731579370&extragetparams=%7B%7D"       href="https://www.facebook.com/drmokterh"                  aria-controls="js_8t" aria-haspopup="true" role="null"  aria-describedby="js_8u">
+<a id="js_oh" class="_2yez" data-hovercard="/ajax/hovercard/hovercard.php?id=100005323273152&extragetparams=%7B%7D" href="https://www.facebook.com/mokter.hossain.18847"       aria-controls="js_of" aria-haspopup="true" role="null"  aria-describedby="js_og">
+
+
+xpath: .//*[@id='xt_uniq_24']/div/div[1]/a
+
+
+<a id="js_1hz" class="_2yez" data-hovercard="/ajax/hovercard/hovercard.php?id=731579370&extragetparams=%7B%7D" href="https://www.facebook.com/drmokterh" aria-controls="js_1hx" aria-haspopup="true" role="null" aria-describedby="js_1hy">
+<a id="js_1za" class="_2yez" data-hovercard="/ajax/hovercard/hovercard.php?id=1796598613&extragetparams=%7B%7D" href="https://www.facebook.com/rahimamokter" aria-controls="js_1z8" aria-haspopup="true" role="null" aria-describedby="js_1z9">
+
+
+aria-label="Add Friend"
+
+
+.//*[@id='xt_uniq_40']
+
+class="_42ft._4jy0 FriendRequestAdd addButton _4jy3 _517h _51sy" type="button" aria-label="Add Friend">
+._42ft._4jy0.FriendRequestAdd.addButton._4jy3._517h._51sy
+
+Class Name:=WebButton
+
+acc_name:=acc_name,
+class:= _42ft _4jy0 FriendRequestAdd addButton _4jy3 _517h _51sy
+
+innertext:=Add Friend
+outertext:=Add Friend
+value:=Add Friend
+ 
+aria-label:=Add Friend"
+
+class="_42ft _4jy0 FriendRequestAdd addButton _4jy3 _517h _51sy" type="button" aria-label="Add Friend">
+class="_42ft _4jy0 FriendRequestAdd addButton _4jy3 _517h _51sy" type="button" aria-label="Add Friend">
+class="_42ft _4jy0 FriendRequestAdd addButton _4jy3 _517h _51sy" type="button" aria-label="Add Friend">
+class="_42ft _4jy0 FriendRequestAdd addButton _4jy3 _517h _51sy" type="button" aria-label="Add Friend">
+
+
+
+fName= Browser("micclass:=Browser").Page("micclass:=Page").Link("xpath:=//DIV[@id='BrowseResultsContainer']/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/A[1]").GetROProperty("innertext")
+
+print fName
+
+value//DIV[@id="bootstrap_entity_module"]/DIV/DIV/DIV/DIV/DIV/DIV/DIV/SPAN/DIV/DIV/DIV/A[@role="button"]/SPAN[normalize-space()="Friends"]
+//DIV[@id="BrowseResultsContainer"]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/SPAN[1]/DIV[1]/DIV[1]/DIV[1]/BUTTON[1]
+
+java -jar selenium-server-standalone-2.53.1.jar -role webdriver -hub http://192.168.1.68:4444/grid/register -port 5555
+
+
+
+

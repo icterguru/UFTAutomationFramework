@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "UFTAutomationFramework", "..\Test.tsp", "C0BB31B2-C56C-40CA-9A02-623CE168306E"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\Mokter\UFTDemo\UFTAutomationFramework\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		C0BB31B2-C56C-40CA-9A02-623CE168306E.Debug|Any CPU.Build.0 = Debug|Any CPU
+		C0BB31B2-C56C-40CA-9A02-623CE168306E.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		C0BB31B2-C56C-40CA-9A02-623CE168306E.Release|Any CPU.Build.0 = Release|Any CPU
+		C0BB31B2-C56C-40CA-9A02-623CE168306E.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Function Libraries) = postProject
+		FacebookPageComponent = C:\Mokter\UFTDemo\UFTAutomationFramework\TestScripts\FacebookPageComponent.vbs
+		ReusableFunctions = C:\Mokter\UFTDemo\UFTAutomationFramework\TestScripts\ReusableFunctions.vbs
+		Reuse = C:\Mokter\UFTDemo\UFTAutomationFramework\Reuse.vbs
+	EndGlobalSection
+EndGlobal

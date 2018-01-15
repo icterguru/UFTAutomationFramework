@@ -1,0 +1,2 @@
+iadjustertest.can6aqqzvhtp.us-west-2.rds.amazonaws.com
+MySQL ODBC 5.3 ANSI
